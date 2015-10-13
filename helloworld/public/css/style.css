@@ -1,0 +1,21 @@
+
+
+body{
+	width: 100%;
+	position: relative;
+	background:#030d1c;
+	height: 100%;
+	color: #fff;
+}
+
+header,article,footer{
+	width: 100%;
+	position: relative;
+	text-align: center;
+}
+
+article{
+	height: 100%;
+	overflow: auto;
+}
+
